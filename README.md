@@ -55,15 +55,6 @@ This project is an **IoT-based real-time plastic detection system** built using 
 
 ---
 
-## 📁 Project Structure
-plastic-detection-esp32-cam/
-├── images/ # Output photos & circuit diagram
-├── code/ # Arduino code files (.ino, .h, etc.)
-├── model/ # Edge Impulse model files (.zip)
-├── README.md
-
-
----
 
 ## 🔧 Circuit Connections
 
