@@ -9,7 +9,10 @@ This project is an **IoT-based real-time plastic detection system** built using 
 ## 📸 Demo Output
 
 > *Plastic and non-plastic detection results shown on OLED display.*
+![Plastic Detected](plastic_detected.jpg)
 
+
+![Non-Plastic Detected](non_plastic_detected.jpg)
 
 
 ---
@@ -28,6 +31,7 @@ This project is an **IoT-based real-time plastic detection system** built using 
 
 
 > *ESP32-CAM connected to OLED (SSD1306) using I2C.*
+![Circuit Diagram](circuit_diagram.jpg)
 
 ---
 
